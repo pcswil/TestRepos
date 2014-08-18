@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Andrew Is adding stuff
 
 Another Line is here - Andrew.
+=======
+Andrew Is adding stufs
+>>>>>>> origin/master
